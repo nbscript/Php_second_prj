@@ -1,0 +1,13 @@
+{
+    "name": "homepc/my_cms",
+    "license": "mit",
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "ext-pdo": "*"
+    }
+}
